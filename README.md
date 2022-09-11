@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoaoFilipeReis
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development tools, like HTML, CSS, JS, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @JoaoFilipeReis and,
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development tools, like HTML, CSS, JavaScript, PHP, Bootstrap and MySql.
+- 💞️ I’m looking forward to start this new role in my life.
+- 📫 How to reach me - joaofreis1984@gmail.com
 
 <!---
 JoaoFilipeReis/JoaoFilipeReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
