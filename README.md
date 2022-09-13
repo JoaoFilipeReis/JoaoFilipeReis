@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoFilipeReis and,
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development tools, like HTML, CSS, JavaScript, PHP, Bootstrap and MySql.
+- 🌱 I’m currently learning web development technologies such as HTML, CSS, JavaScript, PHP, Git, Bootstrap and MySql.
 - 💞️ I’m looking forward to start this new role in my life.
 - 📫 How to reach me - joaofreis1984@gmail.com
 
